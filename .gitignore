@@ -59,10 +59,16 @@ PITCH_DRAFTS.md
 FOUNDER_PITCH_PREP.md
 TECHNICAL_DEEP_DIVE.md
 
+# Internal Documentation (keep local only)
+README_long.md
+SETUP_GUIDE.md
+GITHUB_DEPLOY_GUIDE.md
+slack_bot_roadmap.md
+
 # Keep these files (commented for clarity):
 # .env.example ✅
 # README.md ✅
-# SETUP_GUIDE.md ✅
 # requirements.txt ✅
 # All .py files ✅
+
 
