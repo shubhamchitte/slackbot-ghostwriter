@@ -104,7 +104,7 @@ In your Slack channel: `/invite @Ghostwriter Bot`
 
 ## Demo
 
-> **[ADD YOUR VIDEO DEMO LINK HERE]**
+> [**Demo Link**](https://drive.google.com/file/d/12wPJ4K7SdCzxrhJRKh5KIICIO3jRbqtR/view?usp=sharing)
 
 ---
 
